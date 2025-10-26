@@ -1,8 +1,8 @@
-crewai
-crewai-tools
-langchain
-langchain-community
-langchain-openai
+crewai==0.28.8
+crewai-tools==0.1.6
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-openai==0.1.7
 langchain-groq
 langchain-anthropic
 langchain-ollama
@@ -14,5 +14,5 @@ psycopg2-binary
 snowflake-connector-python
 markdown
 docling
-duckduckgo-search>=8.0.2
-embedchain
+duckduckgo-search==5.3.0
+embedchain==0.1.98
