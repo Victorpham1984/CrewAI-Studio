@@ -1,5 +1,5 @@
 # Baseimage
-FROM python:3.12.10-slim-bookworm
+FROM python:3.11.9-slim-bookworm
 
 # Update Packages
 RUN apt update
